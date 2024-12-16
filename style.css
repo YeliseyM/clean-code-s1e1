@@ -48,11 +48,13 @@
   padding: 0px;
 }
 
-.item-task, .task-title {
+.item-task,
+.task-title {
   list-style: none;
 }
 
-.edit-button, .delete-button {
+.edit-button,
+.delete-button {
   outline: none;
 }
 
